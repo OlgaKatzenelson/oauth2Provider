@@ -1,0 +1,27 @@
+*.class
+*.log
+*.mov
+*.mov.1
+*.mp4
+*.mp4.1
+*.DS_Store
+*.pyc
+*.swp
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+test-output/
+.settings/
+.project
+.classpath
+*.iml
+*.ipr
+*.iws
+*.jpg
+*.mpg
+*.mpeg
+pictures/
+*.orig
